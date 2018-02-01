@@ -1,0 +1,1 @@
+'From Pharo6.0 of 13 May 2016 [Latest update: #60528] on 1 February 2018 at 7:34:09.90948 am'!Object subclass: #UML	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'UML'!!UML commentStamp: 'BrunoDias 2/1/2018 04:38' prior: 0!UML project.!

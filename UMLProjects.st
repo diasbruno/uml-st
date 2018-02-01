@@ -1,0 +1,1 @@
+'From Pharo6.0 of 13 May 2016 [Latest update: #60528] on 1 February 2018 at 7:33:55.515696 am'!ComposableModel subclass: #UMLProjects	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'UML'!!UMLProjects commentStamp: 'BrunoDias 2/1/2018 04:50' prior: 0!UML projects view.!
